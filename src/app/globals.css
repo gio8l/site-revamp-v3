@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+/* Make entire document black behind everything */
+html {
+  background-color: #000000;
+}
+
 body {
   min-height: 100vh;
   margin: 0;
@@ -16,6 +21,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 
-  color: rgb(0, 0, 0);
+  color: white;
   overflow-x: hidden;
 }
