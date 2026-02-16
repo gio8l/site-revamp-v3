@@ -21,9 +21,9 @@ export default function Experiences() {
             <h2 className="text-3xl text-gray-400 mb-6">active</h2>
             <ul className="space-y-3 text-lg text-gray-400">
               <li>City Airways - Moderator</li>
+              <li>Popeyes Roblox - Moderator</li>
               <li>FlyCheap - Airport Supervisor (Management)</li>
               <li>In-N-Out - Junior Executive (Recruitment)</li>
-              <li>Popeyes Roblox - Moderation Intern</li>
             </ul>
           </div>
 
