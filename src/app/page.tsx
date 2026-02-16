@@ -19,7 +19,7 @@ export default function Home() {
 
           <a
             href="/exp"
-            className="underline text-gray-400 hover:text-gray-300 transition mt-75 inline-block"
+            className="underline text-gray-400 hover:text-gray-300 text-2xl transition mt-75 inline-block"
           >
             experiences
           </a>
