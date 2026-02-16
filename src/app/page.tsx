@@ -1,79 +1,75 @@
-export default function Page() {
+export default function Home() {
   return (
-    <main className="min-h-screen flex items-center justify-between px-32 text-gray-300">
-      
-      {/* LEFT SIDE */}
-      <div>
-        <h1 className="text-5xl font-bold text-gray-200">gio!</h1>
-        <p className="text-gray-500">(prcttyworld)</p>
+    <main className="min-h-screen flex items-center justify-center px-8">
+      <div className="w-full max-w-6xl flex justify-between items-center">
 
-        <p className="mt-4 whitespace-nowrap text-gray-400">
-          im like sushi, im on a roll
-        </p>
+        {/* LEFT SIDE */}
+        <div className="space-y-4">
+          <h1 className="text-6xl font-bold text-gray-100">gio!</h1>
 
-        <a
-          href="/exp"
-          className="underline mt-4 inline-block text-gray-400 hover:text-white"
-        >
-          experiences
-        </a>
-      </div>
+          <p className="text-gray-400">(prctyworld)</p>
 
-      {/* RIGHT SIDE */}
-      <div className="text-center">
-        <h2 className="mb-6 text-gray-400">socials</h2>
-
-        <div className="flex gap-4 justify-center">
-          <a
-            href="https://discord.com"
-            target="_blank"
-            className="px-6 py-3 rounded-xl bg-[#0b1a35] hover:bg-[#12244d] transition"
-          >
-            discord
-          </a>
+          <p className="text-gray-300 whitespace-nowrap">
+            im like sushi, im on a roll
+          </p>
 
           <a
-            href="https://instagram.com"
-            target="_blank"
-            className="px-6 py-3 rounded-xl bg-[#0b1a35] hover:bg-[#12244d] transition"
+            href="/exp"
+            className="underline text-gray-400 hover:text-gray-200"
           >
-            instagram
-          </a>
-
-          <a
-            href="https://roblox.com"
-            target="_blank"
-            className="px-6 py-3 rounded-xl bg-[#0b1a35] hover:bg-[#12244d] transition"
-          >
-            roblox
+            experiences
           </a>
         </div>
 
-        <div className="flex gap-4 justify-center mt-4">
-          <a
-            href="https://tiktok.com"
-            target="_blank"
-            className="px-6 py-3 rounded-xl bg-[#0b1a35] hover:bg-[#12244d] transition"
-          >
-            tiktok
-          </a>
+        {/* RIGHT SIDE */}
+        <div className="flex flex-col items-center space-y-6">
+          <h2 className="text-gray-300 text-xl">socials</h2>
 
-          <a
-            href="https://youtube.com"
-            target="_blank"
-            className="px-6 py-3 rounded-xl bg-[#0b1a35] hover:bg-[#12244d] transition"
-          >
-            youtube
-          </a>
+          <div className="flex gap-4 flex-wrap justify-center max-w-sm">
+            <a
+              href="https://discord.com"
+              className="px-6 py-2 rounded-xl bg-[#0b1a35] text-gray-300 hover:bg-[#12244a] transition"
+            >
+              discord
+            </a>
+
+            <a
+              href="https://instagram.com"
+              className="px-6 py-2 rounded-xl bg-[#0b1a35] text-gray-300 hover:bg-[#12244a] transition"
+            >
+              instagram
+            </a>
+
+            <a
+              href="https://roblox.com"
+              className="px-6 py-2 rounded-xl bg-[#0b1a35] text-gray-300 hover:bg-[#12244a] transition"
+            >
+              roblox
+            </a>
+
+            <a
+              href="https://tiktok.com"
+              className="px-6 py-2 rounded-xl bg-[#0b1a35] text-gray-300 hover:bg-[#12244a] transition"
+            >
+              tiktok
+            </a>
+
+            <a
+              href="https://youtube.com"
+              className="px-6 py-2 rounded-xl bg-[#0b1a35] text-gray-300 hover:bg-[#12244a] transition"
+            >
+              youtube
+            </a>
+          </div>
         </div>
+
       </div>
 
       {/* FOOTER */}
-      <div className="absolute bottom-6 left-1/2 -translate-x-1/2 text-sm text-gray-600 text-center">
+      <div className="absolute bottom-8 text-center text-sm text-gray-500">
         <p>for business inquiries: gio@gio8l.online</p>
         <p>rip gio8l.lol</p>
       </div>
-
     </main>
   );
 }
