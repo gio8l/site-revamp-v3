@@ -38,7 +38,7 @@ export default function Home() {
               </div>
 
               <Link
-                href="/experiences"
+                href="/exp"
                 className="text-2xl font-semibold text-gray-400 underline hover:text-white transition"
               >
                 experiences
