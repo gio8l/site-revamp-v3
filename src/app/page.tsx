@@ -4,7 +4,7 @@ export default function Home() {
       <div className="w-full max-w-6xl flex justify-between items-center">
 
         {/* LEFT SIDE */}
-        <div className="space-y-4 -mt-16"> {/* moved up */}
+        <div className="space-y-4 -mt-32"> {/* moved up */}
           <h1 className="text-7xl font-bold text-gray-100">
             gio!
           </h1>
