@@ -12,7 +12,7 @@ export default function Experiences() {
         </Link>
 
         <h1 className="text-5xl font-semibold text-gray-400 underline mt-12 mb-16">
-          Experience
+          experience
         </h1>
 
         <div className="grid md:grid-cols-2 gap-20">
