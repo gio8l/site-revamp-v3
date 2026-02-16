@@ -4,7 +4,7 @@ export default function Home() {
       <div className="w-full max-w-6xl flex justify-between items-center">
 
         {/* LEFT SIDE */}
-        <div className="space-y-4 -mt-150"> {/* moved up */}
+        <div className="space-y-4 -mt-75"> {/* moved up */}
           <h1 className="text-7xl font-bold text-gray-100">
             gio!
           </h1>
@@ -19,7 +19,7 @@ export default function Home() {
 
           <a
             href="/exp"
-            className="underline text-gray-400 hover:text-gray-300 transition mt-150 inline-block"
+            className="underline text-gray-400 hover:text-gray-300 transition mt-75 inline-block"
           >
             experiences
           </a>
