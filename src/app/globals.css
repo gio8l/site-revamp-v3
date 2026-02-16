@@ -6,10 +6,11 @@ body {
   padding: 0;
   min-height: 100%;
   background: linear-gradient(
-    to bottom right,
-    #000000 55%,
-    #000814 75%,
-    #061a33 100%
+    120deg,
+    #000000 60%,
+    #000000 70%,
+    #021025 85%,
+    #062247 100%
   );
   background-attachment: fixed;
 }
