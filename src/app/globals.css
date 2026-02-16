@@ -1,27 +1,13 @@
-@import "tailwindcss";
-
-/* Reset */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* Make page fill entire screen */
-html, body {
-  height: 100%;
-  min-height: 100%;
-}
-
-/* Background */
 body {
+  min-height: 100vh;
+  margin: 0;
+
   background: linear-gradient(
-    to right,
+    135deg,
     #000000 0%,
-    #000000 45%,
-    #020d1f 50%,
-    #041a33 55%,
-    #041a33 100%
+    #000000 55%,
+    #001a33 75%,
+    #00264d 100%
   );
 
   background-attachment: fixed;
@@ -30,9 +16,4 @@ body {
 
   color: white;
   overflow-x: hidden;
-}
-
-/* Prevent white flash on zoom */
-#__next {
-  min-height: 100%;
 }
