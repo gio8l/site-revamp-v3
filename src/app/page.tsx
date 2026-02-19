@@ -33,35 +33,35 @@ export default function Home() {
 
           <div className="flex gap-5 flex-wrap justify-center max-w-md">
             <a
-              href="#"
+              href="https://discord.gg/PRMYACwh7a"
               className="px-8 py-3 rounded-2xl bg-[#0b1a35] text-gray-200 hover:bg-[#12244a] transition text-lg"
             >
               discord
             </a>
 
             <a
-              href="#"
+              href="https://instagram.com/gio8l_"
               className="px-8 py-3 rounded-2xl bg-[#0b1a35] text-gray-200 hover:bg-[#12244a] transition text-lg"
             >
               instagram
             </a>
 
             <a
-              href="#"
+              href="https://www.roblox.com/users/12216555/profile"
               className="px-8 py-3 rounded-2xl bg-[#0b1a35] text-gray-200 hover:bg-[#12244a] transition text-lg"
             >
               roblox
             </a>
 
             <a
-              href="#"
+              href="https://tiktok.com/@gio8l"
               className="px-8 py-3 rounded-2xl bg-[#0b1a35] text-gray-200 hover:bg-[#12244a] transition text-lg"
             >
               tiktok
             </a>
 
             <a
-              href="#"
+              href="https://youtube.com/@gio8l.online"
               className="px-8 py-3 rounded-2xl bg-[#0b1a35] text-gray-200 hover:bg-[#12244a] transition text-lg"
             >
               youtube
