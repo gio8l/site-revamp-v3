@@ -28,7 +28,7 @@ export default function Experiences() {
         <div>
           <h2 className="text-2xl mb-6 text-gray-200">inactive</h2>
           <ul className="space-y-4 text-gray-400">
-            <li>FlyCheap - Former Vice President</li>
+            <li>FlyCheap (37) - Former Vice President</li>
           </ul>
         </div>
 
