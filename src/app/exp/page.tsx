@@ -17,10 +17,11 @@ export default function Experiences() {
         <div>
           <h2 className="text-2xl mb-6 text-gray-200">active</h2>
           <ul className="space-y-4 text-gray-400">
-            <li>City Airways - Moderator</li>
-            <li>Popeyes Roblox - Moderation Intern</li>
+            <li>Chipotle Mexican Grill - Senior Executive</li>
+            <li>City Airways (300k+) - Moderator</li>
             <li>FlyCheap - Airport Supervisor (Management)</li>
             <li>In-N-Out - Junior Executive (Recruitment)</li>
+            <li>Popeyes Louisiana Kitchen (57k+) - Moderator</li>
           </ul>
         </div>
 
