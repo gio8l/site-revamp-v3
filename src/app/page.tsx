@@ -33,6 +33,12 @@ export default function Home() {
 
           <div className="flex gap-5 flex-wrap justify-center max-w-md">
             <a
+              href="https://discord.gg/N89Djy3PTA"
+              className="px-8 py-3 rounded-2xl bg-[#0b1a35] text-gray-200 hover:bg-[#12244a] transition text-lg"
+            >
+              aurora air
+            </a>
+            <a
               href="https://discord.gg/PRMYACwh7a"
               className="px-8 py-3 rounded-2xl bg-[#0b1a35] text-gray-200 hover:bg-[#12244a] transition text-lg"
             >
