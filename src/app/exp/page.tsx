@@ -19,9 +19,7 @@ export default function Experiences() {
           <ul className="space-y-4 text-gray-400">
             <li>City Airways (300k) - Moderator</li>
             <li>Popeyes Louisiana Kitchen (57k) - Moderator</li>
-            <li>In-N-Out (78) - Junior Executive (Recruitment)</li>
-            <li>Aurora Air (61) - Chairman</li>
-            <li>Château Hibachi Restaurant (48) - Senior Executive</li>
+            <li>Aurora Air (65) - Chairman</li>
             <li>FlyCheap (37) - Airport Supervisor (Management)</li>
           </ul>
         </div>
