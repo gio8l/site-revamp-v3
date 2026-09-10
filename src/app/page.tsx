@@ -10,19 +10,12 @@ export default function Home() {
           </h1>
 
           <p className="text-gray-400 text-lg">
-            (prcttyworld)
+            (44evrrr)
           </p>
 
           <p className="text-gray-300 whitespace-nowrap text-lg">
-            im like sushi, im on a roll
+            call me sushi cs im on a roll
           </p>
-
-          <a
-            href="/exp"
-            className="underline text-gray-400 hover:text-gray-300 text-2xl transition mt-75 inline-block"
-          >
-            experiences
-          </a>
         </div>
 
         {/* RIGHT SIDE */}
@@ -36,7 +29,7 @@ export default function Home() {
               href="https://discord.gg/N89Djy3PTA"
               className="px-8 py-3 rounded-2xl bg-[#0b1a35] text-gray-200 hover:bg-[#12244a] transition text-lg"
             >
-              aurora air
+              aurora
             </a>
             <a
               href="https://discord.gg/PRMYACwh7a"
@@ -80,6 +73,7 @@ export default function Home() {
       {/* FOOTER */}
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 text-center text-sm text-gray-500">
         <p>for business inquiries: gio@gio8l.online</p>
+        <p>proud delta cedar member</p>
         <p>rip gio8l.lol</p>
       </div>
     </main>
