@@ -10,7 +10,7 @@ export default function Home() {
           </h1>
 
           <p className="text-gray-400 text-lg">
-            (44evrrr)
+            (gio4evrr)
           </p>
 
           <p className="text-gray-300 whitespace-nowrap text-lg">
